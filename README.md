@@ -1,13 +1,5 @@
----
-title: Sumanth-Talluri
-date: '2020-14-08'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'Sumanth-Talluri'
----
 
-
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://mydevify.com) 
 <p>
   <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
 </p>
