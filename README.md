@@ -19,7 +19,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am an IT student at IsetSfax and the CEO of MyDevify.com 
-- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🔭 I'm like a multi-tasking ninja, balancing my time between cracking codes at Velocity-Hosting.com, hitting the books at university, pumping iron at the gym, and gobbling up online courses like a knowledge-hungry monster! 🚀💪📚 So, if you need me, catch me zipping through cyberspace or flexing my brain muscles between sets! 😄 :grin:
 - 🌱 I’m currently learning MERNN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects
@@ -97,8 +97,8 @@ https://github.com/mydevify/SocialPulse-React-Node.js-MySQL-Social-Media-App-Ful
 <br>
 
 <div align="center">
-<!-- <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
+<!-- <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>-->
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> 
 
 #### Thank You-🙏🏼
 
