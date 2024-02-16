@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][[linkedin](https://www.linkedin.com/in/xloy/)]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -101,10 +101,9 @@ No Activity tracked this Week
 
 #### Thank You-🙏🏼
 
-⭐️ From [Sumanth-Talluri](https://github.com/Sumanth-Talluri)
+⭐️ From [xLoy](https://github.com/mydevify)
 
 <!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
+
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
+[linkedin]: [https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141](https://www.linkedin.com/in/xloy/)https://www.linkedin.com/in/xloy/
