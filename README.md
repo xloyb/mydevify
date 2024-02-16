@@ -26,7 +26,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/xloy/)
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+<!-- ⚡ Fun fact: I love connecting with different people :raised_hands: -->
 
 <br>
 
