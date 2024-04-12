@@ -90,7 +90,7 @@
 <!--START_SECTION:waka-->
 ```text
 Working on this
-[https://github.com/mydevify/SocialPulse-React-Node.js-MySQL-Social-Media-App-Full-Stack-Social-Network-App-Open-Source](https://github.com/mydevify/MyPet/)
+https://github.com/mydevify/MyPet/
 ```
 <!--END_SECTION:waka-->
 
