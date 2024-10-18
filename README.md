@@ -59,13 +59,13 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mydevify&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xloyb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
 
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mydevify&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xloyb&show_icons=true&hide_border=true&theme=radical">
 </p>
 
 <!-- stats
@@ -86,12 +86,7 @@
 
 <br>
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Working on this
-https://github.com/mydevify/MyPet/
-```
+
 <!--END_SECTION:waka-->
 
 <br>
