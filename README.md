@@ -4,6 +4,19 @@
   <h1 align="center"><b>Hello there, I'm xLoy 👋</b></h1>
 </p>
 
+<p align="center">
+  <a href="https://github.com/xloyb" title="GitHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/xloy/" title="LinkedIn">
+    <img alt="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+  </a>
+</p>
+
+
 
 <p align="center">
 <br>
