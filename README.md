@@ -18,7 +18,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://mydevify.com/assets/index.494ac568.png" />
 
-### I am an IT student at IsetSfax and the CEO of MyDevify.com 
+### Code Lifter by Day, Weight Lifter by Night
 -  I'm currently a master of multitasking, dividing my time between [Velocity-Hosting](https://vlsho.com/), university, gym sessions, and devouring online courses like a champ! 💪📚 Catch me flexing in cyberspace or pumping iron between study breaks! :grin:
 
 - I always aim to structure my work, usually planning to complete projects within two weeks. But my creativity often takes over, transforming what was supposed to be a short project into something much bigger and better! This journey from weeks to months has helped me build a deeper understanding of technology and broaden my skill set.
